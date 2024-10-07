@@ -71,49 +71,49 @@ namespace _01_MainSubjects
             //int number = 333;
             //Console.WriteLine(number);
 
-            int hamburgerPrice = 10;
-            int pizzaPrice = 9;
-            int cokePrice = 3;
-            int lemonadePrice = 2;
+            //int hamburgerPrice = 10;
+            //int pizzaPrice = 9;
+            //int cokePrice = 3;
+            //int lemonadePrice = 2;
 
-            Console.OutputEncoding = Encoding.Unicode; //This was used for "€" symbol. (found on stackoverflow)
+            //Console.OutputEncoding = Encoding.Unicode; //This was used for "€" symbol. (found on stackoverflow)
 
-            Console.WriteLine("*** Restaurant Menu Prices ***");
-            Console.WriteLine();
-            Console.WriteLine("---- Hamburger : " + hamburgerPrice + " €");
-            Console.WriteLine("---- Pizza : " + pizzaPrice + " €");
-            Console.WriteLine("---- Coke : " + cokePrice + " €");
-            Console.WriteLine("---- Lemonade : " + lemonadePrice + " €");
-            Console.WriteLine();
-            Console.WriteLine("*** Restaurant Menu Prices ***");
+            //Console.WriteLine("*** Restaurant Menu Prices ***");
+            //Console.WriteLine();
+            //Console.WriteLine("---- Hamburger : " + hamburgerPrice + " €");
+            //Console.WriteLine("---- Pizza : " + pizzaPrice + " €");
+            //Console.WriteLine("---- Coke : " + cokePrice + " €");
+            //Console.WriteLine("---- Lemonade : " + lemonadePrice + " €");
+            //Console.WriteLine();
+            //Console.WriteLine("*** Restaurant Menu Prices ***");
 
-            Console.WriteLine();
+            //Console.WriteLine();
 
-            int hamburgerCount, pizzaCount, cokeCount, lemonadeCount;
+            //int hamburgerCount, pizzaCount, cokeCount, lemonadeCount;
 
-            int totalHamburgerPrice, totalPizzaPrice, totalCokePrice, totalLemonadePrice;
+            //int totalHamburgerPrice, totalPizzaPrice, totalCokePrice, totalLemonadePrice;
 
-            hamburgerCount = 3;
-            pizzaCount = 2;
-            cokeCount = 5;
-            lemonadeCount = 0;
+            //hamburgerCount = 3;
+            //pizzaCount = 2;
+            //cokeCount = 5;
+            //lemonadeCount = 0;
 
-            totalHamburgerPrice = hamburgerPrice * hamburgerCount;
-            totalPizzaPrice = pizzaPrice * pizzaCount;
-            totalCokePrice = cokePrice * cokeCount;
-            totalLemonadePrice = lemonadePrice * lemonadeCount;
+            //totalHamburgerPrice = hamburgerPrice * hamburgerCount;
+            //totalPizzaPrice = pizzaPrice * pizzaCount;
+            //totalCokePrice = cokePrice * cokeCount;
+            //totalLemonadePrice = lemonadePrice * lemonadeCount;
 
-            Console.WriteLine("---------------------------------");
-            Console.WriteLine("Hamburger Total : " + totalHamburgerPrice + " €");
-            Console.WriteLine("Pizza Total : " + totalPizzaPrice + " €");
-            Console.WriteLine("Coke Total : " + totalCokePrice + " €");
-            Console.WriteLine("Lemonade Total : " + totalLemonadePrice + " €");
+            //Console.WriteLine("---------------------------------");
+            //Console.WriteLine("Hamburger Total : " + totalHamburgerPrice + " €");
+            //Console.WriteLine("Pizza Total : " + totalPizzaPrice + " €");
+            //Console.WriteLine("Coke Total : " + totalCokePrice + " €");
+            //Console.WriteLine("Lemonade Total : " + totalLemonadePrice + " €");
 
-            Console.WriteLine();
+            //Console.WriteLine();
 
-            int totalPaymentPrice = totalHamburgerPrice + totalPizzaPrice + totalCokePrice + totalLemonadePrice;
+            //int totalPaymentPrice = totalHamburgerPrice + totalPizzaPrice + totalCokePrice + totalLemonadePrice;
             
-            Console.WriteLine("Total Payment Price : " + totalPaymentPrice + " €");
+            //Console.WriteLine("Total Payment Price : " + totalPaymentPrice + " €");
             
             #endregion
 
