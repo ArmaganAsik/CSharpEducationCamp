@@ -5,3 +5,4 @@
 03 - If else, Switch Case  
 04 - Loops (For, While)  
 05 - Loops with stars  
+06 - Arrays (Examples, Get value from client, Array Methods)  
