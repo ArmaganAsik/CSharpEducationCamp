@@ -7,3 +7,4 @@
 05 - Loops with stars  
 06 - Arrays, Examples, Get value from client, Array Methods  
 07 - Foreach Loop, Average Exam Score Practice  
+08 - Methods (Void Methods with/without Parameters, Methods that return a value with/without Parameters)  
