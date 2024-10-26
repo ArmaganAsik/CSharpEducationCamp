@@ -38,3 +38,12 @@ Additionally, an example application was developed where the user is prompted to
 📌 08 - Methods and Parameters: Void, Return and Different Combinations :
 
 *In this project, methods that take parameters and those that do not, as well as methods that return values and those that do not, were demonstrated using int and string variables. The application calculates exam results based on student names and scores provided by the user, determining whether the student passed or failed.*
+
+📌 09 - Database Connection :  
+
+*In this project, an ADO.NET approach was used to retrieve data from a SQL Server database. The system displays category information by connecting to a sample database named EducationCampDb. After establishing a connection using SqlConnection, it performs a query through SqlCommand, retrieves data with SqlDataAdapter and presents the results in the console via DataTable.*  
+
+📌 10 - Database CRUD :  
+
+*This project includes an application that performs basic database operations such as adding categories, adding, listing, updating and deleting products using ADO.NET. User inputs are processed with SQL parameters and saved to the "TBL_Category" and "TBL_Product" tables.*
+
